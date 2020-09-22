@@ -1,2 +1,2 @@
 # PokemonCounter
-A simple specific pokemon encounter counter for a friend
+A simple pokemon encounter counter for a friend
