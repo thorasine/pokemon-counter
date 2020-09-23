@@ -11,7 +11,7 @@ pokemons = {"purrloin": ((712, 900), (797, 900), (876, 900)), "gyarados": "todo"
 
 
 def main():
-    print("Budget Pokémon Counter script by Thorasine has started!")
+    print("The Budget Pokémon Counter script by Thorasine has started!")
     # EDIT THE POKEMON NAME BELOW
     pokemon = "purrloin"
     while True:
