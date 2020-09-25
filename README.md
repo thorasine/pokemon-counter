@@ -1,2 +1,2 @@
 # pokemon-counter
-A simple pokemon encounter counter for a friend
+A simple pokemon encounter counter I wrote for a friend.
